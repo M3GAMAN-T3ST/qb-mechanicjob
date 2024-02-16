@@ -67,6 +67,7 @@ Config.Shops = {
             { name = 'repairkit',         price = 5000, amount = 50 },
             { name = 'advancedrepairkit', price = 5000, amount = 50 },
             { name = 'tirerepairkit',     price = 5000, amount = 50 },
+            { name = 'driftchipbox',     price = 5000, amount = 50 }, -- cw-driftchip
         }
     },
     mechanic2 = { -- Harmony Location
@@ -105,6 +106,7 @@ Config.Shops = {
             { name = 'repairkit',         price = 5000, amount = 50 },
             { name = 'advancedrepairkit', price = 5000, amount = 50 },
             { name = 'tirerepairkit',     price = 5000, amount = 50 },
+            { name = 'driftchipbox',     price = 5000, amount = 50 }, -- cw-driftchip
         }
     },
     mechanic3 = { -- Airport Location
@@ -143,6 +145,7 @@ Config.Shops = {
             { name = 'repairkit',         price = 5000, amount = 50 },
             { name = 'advancedrepairkit', price = 5000, amount = 50 },
             { name = 'tirerepairkit',     price = 5000, amount = 50 },
+            { name = 'driftchipbox',     price = 5000, amount = 50 }, -- cw-driftchip
         }
     },
     bennys = { -- Default Bennys Location
@@ -181,6 +184,7 @@ Config.Shops = {
             { name = 'repairkit',         price = 5000, amount = 50 },
             { name = 'advancedrepairkit', price = 5000, amount = 50 },
             { name = 'tirerepairkit',     price = 5000, amount = 50 },
+            { name = 'driftchipbox',     price = 5000, amount = 50 }, -- cw-driftchip
         }
     },
     beeker = { -- Paleto Location
@@ -219,6 +223,7 @@ Config.Shops = {
             { name = 'repairkit',         price = 5000, amount = 50 },
             { name = 'advancedrepairkit', price = 5000, amount = 50 },
             { name = 'tirerepairkit',     price = 5000, amount = 50 },
+            { name = 'driftchipbox',     price = 5000, amount = 50 }, -- cw-driftchip
         }
     },
 }
